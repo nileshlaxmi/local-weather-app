@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(207, 172, 177);
+}
+
+.imgBox{
+    position: relative;
+    margin: auto;
+    display: block;
+    margin-top: 7%;
+    height: 500px;
+    width: 500px;    
+    border: solid 2px;
+    border-radius: 10px;        
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    font-size: 20px;
+}
+
+#weather{
+    text-transform: capitalize;
+}
+
+#tempUnit{
+    color:  rgb(114, 31, 197);   
+    text-decoration: underline; 
+}
